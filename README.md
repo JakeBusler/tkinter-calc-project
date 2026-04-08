@@ -24,4 +24,4 @@ Jake: Lead Developer. Architected the ast parsing logic, built the Tkinter .grid
 
 Connor: Provided undeniable proof that a two-person team can theoretically exist.
 
-(Shout-outs: Gemini for this README.)
+(Shout-outs: Gemini for this README, Copilot for the initial framework.)
